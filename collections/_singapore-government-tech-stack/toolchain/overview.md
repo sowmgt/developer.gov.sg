@@ -20,8 +20,6 @@ This is a multi-tenanted Software-as-a-Service (SaaS) hosted on Government Comme
 ## Tools in SHIP-HATS 
 
 ---
-
----
 |     category  |                  Tools                     |
 |     --------  | ------------------------------------------ |
 |  Development  |        Jira, Confluence, Bitbucket         |
